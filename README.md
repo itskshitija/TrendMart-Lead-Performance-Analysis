@@ -1,3 +1,7 @@
+<a href="https://www.linkedin.com/in/kshitija-chilbule-b98515309/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn Badge" style="height: 30px; width: auto;">
+</a>
+
 # 📊 TrendMart Lead Performance Analysis
 
 Welcome to the **TrendMart Lead Performance Analysis** project! This project focuses on analyzing the performance of TrendMart's advertisements in generating leads over four weeks. The goal is to assess whether the advertisements met their targets, identify trends, and provide actionable insights for future campaigns.
@@ -66,8 +70,8 @@ Google Sheets
 - The BigBharatSale ad proved to be the most effective, generating 9,200 leads.
 - The UnityUtsav as underperformed, producing only 5,100 leads, indicating it was less effective.
 
-## 📬 Contact
-**Author:** Kshitija Chilbule
-
-For any inquiries, email at: kshitijachilbule2@gmail.com
-
+## Connect 🤝
+- 📩 <b>Email:</b> kshitijachilbule5@gmail.com
+- 👩‍💻 <b>Github:</b> https://github.com/itskshitija
+- 📶 <b>LinkedIn:</b> https://www.linkedin.com/in/kshitija-chilbule-b98515309/
+- 🌐 <b>Medium:</b> https://medium.com/@kshitijachilbule2
