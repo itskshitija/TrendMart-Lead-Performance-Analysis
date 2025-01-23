@@ -2,6 +2,8 @@
 
 Welcome to the **TrendMart Lead Performance Analysis** project! This project focuses on analyzing the performance of TrendMart's advertisements in generating leads over four weeks. The goal is to assess whether the advertisements met their targets, identify trends, and provide actionable insights for future campaigns.
 
+# 👉Access the Google Sheet for the comprehensive overview of the project [Here](https://docs.google.com/spreadsheets/d/1vZxx1AjPFSvASDAHDqAqgGY7dOalaAda0HXs6URM-sc/edit?usp=sharing)
+
 ## 📝 Project Overview
 
 ### Objective
